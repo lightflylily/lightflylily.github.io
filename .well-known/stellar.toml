@@ -1,0 +1,28 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+FEDERATION_SERVER="https://api.domain.com/federation"
+TRANSFER_SERVER="https://api.domain.com"
+SIGNING_KEY="GBXATABF76AZWWXMF2N7OFZIAAQJKSNNVMJEWCWJMXH7TWN7DGUDS5T5"
+ACCOUNTS=[
+"GBXATABF76AZWWXMF2N7OFZIAAQJKSNNVMJEWCWJMXH7TWN7DGUDS5T53",
+]
+
+[[DOCUMENTATION]]
+ORG_NAME="lightflylily"
+ORG_URL="https://lightflylily.github.io/"
+ORG_DESCRIPTION="Mind exploding exploration of the Stellar network"
+
+[[PRINCIPALS]]
+name="lightflylily"
+github="lightflylily"
+
+[[CURRENCIES]]
+code="INTMT"
+issuer="GBXATABF76AZWWXMF2N7OFZIAAQJKSNNVMJEWCWJMXH7TWN7DGUDS5T5"
+display_decimals=7
+name="Intimate token"
+desc="1 INTMT token is exchangeable for 1 experience"
+fixed_number=10000
+
+SQ02_EASTER_EGG="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
+
+
