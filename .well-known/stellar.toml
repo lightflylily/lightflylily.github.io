@@ -20,7 +20,7 @@ issuer="GBXATABF76AZWWXMF2N7OFZIAAQJKSNNVMJEWCWJMXH7TWN7DGUDS5T5"
 display_decimals=7
 name="Intimate token"
 desc="1 INTMT token is exchangeable for 1 experience"
-fixed_number=10000
+fixed_number=1000
 
 SQ02_EASTER_EGG="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
 
